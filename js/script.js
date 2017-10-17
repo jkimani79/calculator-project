@@ -38,10 +38,8 @@ subtract();
 // A function that gets modulo of the first and second number
 
 
-var getModulo = function(number1, number2){ return number1%number2;
-};
 var number1 =parseInt(prompt("Enter a number:"));
 
 var number2 = parseInt(prompt("Enter another number:"));
-
-alert (getModulo(number1, number2));
+var getModulo = function(){ alert(number1%number2)};
+ getModulo();
