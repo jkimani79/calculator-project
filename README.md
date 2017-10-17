@@ -6,7 +6,7 @@ Calculator
 
 ## Description
 
-This program combines both front end user interface logic with back end (business logic) to build a number cruncher
+This program combines both front end user interface logic with back end (business logic) to build a number cruncher.
 
 ## Setup/Installation Requirements
 

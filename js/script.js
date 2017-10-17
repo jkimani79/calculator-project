@@ -16,7 +16,7 @@ add();
 
 // A function that multiplies two numbers input from command prompt
 
-v
+
 var number1 =parseInt(prompt("Enter a number:"));
 
 var number2 = parseInt(prompt("Enter another number:"));
