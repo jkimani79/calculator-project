@@ -16,13 +16,13 @@ add();
 
 // A function that multiplies two numbers input from command prompt
 
-var multiply = function(number1, number2){ return number1*number2;
-};
+v
 var number1 =parseInt(prompt("Enter a number:"));
 
 var number2 = parseInt(prompt("Enter another number:"));
+var multiply = function(){ alert(number1*number2)};
 
-alert (multiply(number1, number2));
+ multiply();
 
 
 var subtract= function(number1, number2){ return number1-number2;
